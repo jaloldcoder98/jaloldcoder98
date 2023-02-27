@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @jaloldcoder98
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Jaloliddin 
+- 👀 I’m interested in reading and playing sports
+- 🌱 I’m currently learning IOS programming
+- 💞️ I’m looking to collaborate on GSC LLC
+- 📫 How to reach me email 📧 : jaloldcoder@gmail.com
+
+
+
+
 
 <!---
 jaloldcoder98/jaloldcoder98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
