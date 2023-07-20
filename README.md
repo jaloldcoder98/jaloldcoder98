@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning IOS programming
 - 💞️ I’m looking to collaborate on GSC LLC
 - 📫 How to reach me email 📧 : jaloldcoder@gmail.com
--  Link: https://www.codewars.com/users/jaloldcoder98/badges/small
+-  Link: URL:https://www.codewars.com/users/jaloldcoder98/badges/large?theme=light
 
 
 
