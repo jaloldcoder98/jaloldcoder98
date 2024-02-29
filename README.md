@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python 🐍 programming
 - 💞️ I’m looking to collaborate on GSC LLC
 - 📫 How to reach me email 📧 : jaloldcoder@gmail.com
--  Link: ---
+- 🔗 Linkedin: [---](https://www.linkedin.com/in/jaloliddin-egamberdiyev/)
 
 
 <!---
