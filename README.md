@@ -1,4 +1,4 @@
--  Hi, I’m Jaloliddin Egamberdiyev <image src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnYzcGVsb2x2dDRyYTY5ZjQ2bmwzazltMzd3aGRzcjVlMjBpdjFvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NTjxSbh6KnqSyRa1zk/giphy.gif" width="30">
+-  Hi, I’m Jaloliddin Egamberdiyev <image src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXpmbXI1YXdvbmFzZnJ3dzlwNzkzNWpieWd6Nm9yMThhZTd5Y214eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gM5qFksULw54NMWyry/giphy.gif" width="30">
 - 👀 I’m interested in reading and playing sports
 - 🌱 I’m currently learning C# programming
 - 💞️ I’m looking to collaborate on GSC LLC
