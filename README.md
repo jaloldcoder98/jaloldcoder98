@@ -5,8 +5,7 @@
    <image src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenV1MDNwejBwa3E5OTFtMmJjNWptbmZ3OGdnZzU5NDgxNHBpcWU0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Uamm65xefRzqTqAMh2/giphy.gif" width="30">
   
 - 📫 How to reach me email 📧 : jaloldcoder@gmail.com
-  
-- 🔗 Linkedin: [Linkedin](https://www.linkedin.com/in/jaloliddin-egamberdiyev/)
+
 
 
 <!---
