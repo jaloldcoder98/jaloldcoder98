@@ -5,15 +5,16 @@
  width="30">
 - I’m looking to collaborate on GSC LLC
    <image src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenV1MDNwejBwa3E5OTFtMmJjNWptbmZ3OGdnZzU5NDgxNHBpcWU0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Uamm65xefRzqTqAMh2/giphy.gif" width="30">
+
   
-- 📫 How to reach me email 📧 : jaloldcoder@gmail.com
 <br/>
 <p align="end">
 <a href="https://dev.to/jaloldcoder98"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-gray?style=flat-square&logo=dev-to"></a>
 <a href="https://x.com/jaloldcoder" target="blank"><img alt="twitter" src="https://img.shields.io/badge/twitter-gray?style=flat-square&logo=twitter"/></a> 
 <a href="https://www.linkedin.com/in/jaloliddin-egamberdiyev/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
 <a href="https://t.me/jaloliddin_io"><img alt="Telegram" src="https://img.shields.io/badge/telegram-gray?style=flat-square&logo=telegram"></a>
-<a href="https://www.facebook.com/jaloldo98/"><img alt="Facebook" src="https://img.shields.io/badge/facebook-gray?style=flat-square&logo=facebook"></a>
+<a href="https://www.facebook.com/jaloldo98/"><img alt="Facebook" src="https://img.shields.io/badge/facebook-gray?style=flat-square
+&logo=facebook"></a>
 </p>
 
 <h1>🛠 Me Stack</h1>
