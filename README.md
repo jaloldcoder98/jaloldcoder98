@@ -10,7 +10,7 @@
 <br/>
 <p align="end">
 <a href="https://dev.to/jaloldcoder98"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-gray?style=flat-square&logo=dev-to"></a>
-<a href="https://x.com/jaloldcoder" target="blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-gray?style=flat-square&logo=twitter"/></a> 
+<a href="https://x.com/jaloldcoder" target="blank"><img alt="X" src="https://i.pinimg.com/736x/99/65/5e/99655e9fe24eb0a7ea38de683cedb735.jpg"/></a> 
 <a href="https://www.linkedin.com/in/jaloliddin-egamberdiyev/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
 <a href="https://t.me/jaloliddin_io"><img alt="Telegram" src="https://img.shields.io/badge/telegram-gray?style=flat-square&logo=telegram"></a>
 <a href="https://www.facebook.com/jaloldo98/"><img alt="Facebook" src="https://img.shields.io/badge/facebook-gray?style=flat-square&logo=facebook"></a>
