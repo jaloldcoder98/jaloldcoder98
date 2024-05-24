@@ -13,8 +13,7 @@
 <a href="https://x.com/jaloldcoder" target="blank"><img alt="twitter" src="https://img.shields.io/badge/twitter-gray?style=flat-square&logo=twitter"/></a> 
 <a href="https://www.linkedin.com/in/jaloliddin-egamberdiyev/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
 <a href="https://t.me/jaloliddin_io"><img alt="Telegram" src="https://img.shields.io/badge/telegram-gray?style=flat-square&logo=telegram"></a>
-<a href="https://www.facebook.com/jaloldo98/"><img alt="Facebook" src="https://img.shields.io/badge/facebook-gray?style=flat-square
-&logo=facebook"></a>
+<a href="https://www.facebook.com/jaloldo98/"><img alt="Facebook" src="https://img.shields.io/badge/facebook-gray?style=flat-square&logo=facebook"></a>
 </p>
 
 <h1>🛠 Me Stack</h1>
