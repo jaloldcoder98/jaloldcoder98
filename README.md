@@ -5,6 +5,18 @@
    <image src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenV1MDNwejBwa3E5OTFtMmJjNWptbmZ3OGdnZzU5NDgxNHBpcWU0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Uamm65xefRzqTqAMh2/giphy.gif" width="30">
   
 - 📫 How to reach me email 📧 : jaloldcoder@gmail.com
+<br/>
+
+<h1>🛠 Me Stack</h1>
+
+- 💻 &nbsp;  `.cs` | `.py` | `.sh` | `.yml` | `.html` | `.css` | `.js` | `.swift`
+- 🌐 &nbsp; .NET 6/ | 
+- 🕸 &nbsp; jQuery | Bootstrap | HTML5 | CSS
+<!--- 🛢 &nbsp; SqlServer | PostgreSql --->
+- ⚙️ &nbsp; Git 
+
+<br/>
+  
 <h1>Me Stats</h1>
 
 <div align="center">
