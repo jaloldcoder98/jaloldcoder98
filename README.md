@@ -19,7 +19,7 @@
 <h1>🛠 Me Stack</h1>
 
 - 💻 &nbsp;  `.cs` | `.py` | `.html` | `.css` 
-- 🌐 &nbsp; .NET 6/ | 
+- 🌐 &nbsp; .NET 6 | 
 - 🕸 &nbsp; jQuery | Bootstrap | HTML5 | CSS
 <!--- 🛢 &nbsp; SqlServer | PostgreSql --->
 - ⚙️ &nbsp; Git 
