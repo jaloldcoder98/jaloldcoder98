@@ -5,6 +5,19 @@
    <image src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenV1MDNwejBwa3E5OTFtMmJjNWptbmZ3OGdnZzU5NDgxNHBpcWU0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Uamm65xefRzqTqAMh2/giphy.gif" width="30">
   
 - 📫 How to reach me email 📧 : jaloldcoder@gmail.com
+<h1>Me Stats</h1>
+
+<div align="center">
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaloldcoder98&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+<a />
+<div>
+ <br/>
+
+[![Jaloldo Streak](https://github-readme-streak-stats.herokuapp.com?user=jaloldcoder98&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FFFFFF&ring=3722DD)](https://git.io/streak-stats)
+
+[![](https://komarev.com/ghpvc/?username=jaloldcoder98&color=orange&label=Profile%20Views)](https://github.com/jaloldcoder98 )
+[![](https://img.shields.io/github/followers/wahidustoz?label=GitHub%20Followers)](https://github.com/jaloldcoder98)
 
 
 
