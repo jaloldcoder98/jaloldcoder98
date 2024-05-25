@@ -18,9 +18,9 @@
 
 <h1>🛠 Me Stack</h1>
 
-- 💻 &nbsp;  `.cs` | `.py` | `.html` | `.css` 
+- 💻 &nbsp;  `.cs` | `.py` | `.html` | `.css` | `.swift`
 - 🌐 &nbsp; .NET 6 | 
-- 🕸 &nbsp; jQuery | Bootstrap | HTML5 | CSS
+- 🕸 &nbsp; jQuery | Bootstrap | HTML5 | CSS | Swift
 <!--- 🛢 &nbsp; SqlServer | PostgreSql --->
 - ⚙️ &nbsp; Git 
 
@@ -38,7 +38,7 @@
 
 [![Jaloldo Streak](https://github-readme-streak-stats.herokuapp.com?user=jaloldcoder98&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FFFFFF&ring=3722DD)](https://git.io/streak-stats)
 
-[![](https://komarev.com/ghpvc/?username=jaloldcoder98&color=orange&label=Profile%20Views)](https://github.com/jaloldcoder98 )
+[![](https://komarev.com/ghpvc/?username=jaloldcoder98&color=orange&label=Profile%20Views)](https://github.com/jaloldcoder98)
 [![](https://img.shields.io/github/followers/jaloldcoder98?label=GitHub%20Followers)](https://github.com/jaloldcoder98)
 
 
