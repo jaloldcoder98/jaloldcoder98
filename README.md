@@ -18,7 +18,8 @@
 
 <h1>🛠 Me Stack</h1>
 
-- 💻 &nbsp;  `.cs` | `.py` | `.html` | `.css` | `.swift`
+- 💻 &nbsp;  `.cs` | `.py` | `.html` | `.css` | `.swift
+`
 - 🌐 &nbsp; .NET 6 | 
 - 🕸 &nbsp; jQuery | Bootstrap | HTML5 | CSS | Swift
 <!--- 🛢 &nbsp; SqlServer | PostgreSql --->
