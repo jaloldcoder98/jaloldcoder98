@@ -40,8 +40,6 @@
 
 [![Jaloliddin's Streak](https://github-readme-streak-stats.herokuapp.com?user=jaloldcoder98&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FFFFFF&ring=3722DD)](https://git.io/streak-stats)
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/jaloldcoder98/jaloldcoder98/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/jaloldcoder98/jaloldcoder98/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
 [![](https://komarev.com/ghpvc/?username=jaloldcoder98&color=orange&label=Profile%20Views)](https://github.com/jaloldcoder98/jaloldcoder98)
@@ -64,6 +62,13 @@
 ![shields](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![shields](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![shields](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+
+
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 
 
 
