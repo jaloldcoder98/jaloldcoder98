@@ -27,7 +27,7 @@
 
 <br/>
   
-<h1>Me Stats</h1>
+## 📊 GitHub Stats
 
 <div align="center">
 <a href
@@ -41,7 +41,10 @@
 
 [![](https://komarev.com/ghpvc/?username=jaloldcoder98&color=orange&label=Profile%20Views)](https://github.com/jaloldcoder98)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaloldcoder98&theme=github_dark)
-[![](https://img.shields.io/github/followers/jaloldcoder98?label=GitHub%20Followers)](https://github.com/jaloldcoder98)
+<div align="center">
+    <img src="https://github.com/jaloldcoder98/jaloldcoder98/blob/output/github-contribution-grid-snake-dark.svg" alt="snake")>
+</div>
+
 
 
 
@@ -56,11 +59,7 @@
 ![shields](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-    <img src="https://github.com/MrArnaudMichel/MrArnaudMichel/blob/output/github-contribution-grid-snake-dark.svg" alt="snake")>
-</div>
+[![](https://img.shields.io/github/followers/jaloldcoder98?label=GitHub%20Followers)](https://github.com/jaloldcoder98)
 
 
 <!---
