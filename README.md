@@ -37,8 +37,9 @@
  <br/>
 
 
-![github contribution grid snake animation](https://github.com/jaloldcoder98/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://github.com/jaloldcoder98/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/jaloldcoder98/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 
 
 
