@@ -37,7 +37,7 @@
 <div>
  <br/>
 
-[![Jaloldo Streak](https://github-readme-streak-stats.herokuapp.com?user=jaloldcoder98&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FFFFFF&ring=3722DD)](https://git.io/streak-stats)
+
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaloldcoder98&theme=github_dark)
 
