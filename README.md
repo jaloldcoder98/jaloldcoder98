@@ -37,8 +37,8 @@
  <br/>
 
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/jaloldcoder98/jaloldcoder98/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/jaloldcoder98/jaloldcoder98/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/jaloldcoder98/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 
 
 [![Jaloliddin's Streak](https://github-readme-streak-stats.herokuapp.com?user=jaloldcoder98&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FFFFFF&ring=3722DD)](https://git.io/streak-stats)
