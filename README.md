@@ -40,8 +40,9 @@
 [![Jaloldo Streak](https://github-readme-streak-stats.herokuapp.com?user=jaloldcoder98&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FFFFFF&ring=3722DD)](https://git.io/streak-stats)
 
 [![](https://komarev.com/ghpvc/?username=jaloldcoder98&color=orange&label=Profile%20Views)](https://github.com/jaloldcoder98)
-[![](https://img.shields.io/github/followers/jaloldcoder98?label=GitHub%20Followers)](https://github.com/jaloldcoder98)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaloldcoder98&theme=github_dark)
+[![](https://img.shields.io/github/followers/jaloldcoder98?label=GitHub%20Followers)](https://github.com/jaloldcoder98)
+
 
 
 <!--- ### 🛢️ Databases
@@ -58,7 +59,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-    <img src="https://github.com/jaloldcoder98/jaloldcoder98/blob/output/github-contribution-grid-snake-dark.svg" alt="snake")>
+    <img src="https://github.com/MrArnaudMichel/MrArnaudMichel/blob/output/github-contribution-grid-snake-dark.svg" alt="snake")>
 </div>
 
 
