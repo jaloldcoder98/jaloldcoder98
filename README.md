@@ -30,19 +30,16 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<a href
-="">
+<a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaloldcoder98&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
 <a />
 <div>
  <br/>
 
+[![Jaloliddin's Streak](https://github-readme-streak-stats.herokuapp.com?user=jaloldcoder98&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FFFFFF&ring=3722DD)](https://git.io/streak-stats)
 
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaloldcoder98&theme=github_dark)
-
-[![](https://img.shields.io/github/followers/jaloldcoder98?label=GitHub%20Followers)](https://github.com/jaloldcoder98)
-[![](https://komarev.com/ghpvc/?username=jaloldcoder98&color=orange&label=Profile%20Views)](https://github.com/jaloldcoder98)
+[![](https://komarev.com/ghpvc/?username=jaloldcoder98&color=orange&label=Profile%20Views)](https://github.com/jaloldcoder98/jaloldcoder98)
+[![](https://img.shields.io/github/followers/jaloldcoder98?label=GitHub%20Followers)](https://github.com/jaloldcoder98/jaloldcoder98)
 
 
 
