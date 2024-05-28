@@ -41,7 +41,7 @@
 
 [![](https://komarev.com/ghpvc/?username=jaloldcoder98&color=orange&label=Profile%20Views)](https://github.com/jaloldcoder98)
 [![](https://img.shields.io/github/followers/jaloldcoder98?label=GitHub%20Followers)](https://github.com/jaloldcoder98)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaloldcoder98&theme=github_dark)
 
 
 <!--- ### 🛢️ Databases
@@ -58,11 +58,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-    <img src="https://github.com/jaloldcoder98/blob/output/github-contribution-grid-snake-dark.svg" alt="snake")>
+    <img src="https://github.com/jaloldcoder98/jaloldcoder98/blob/output/github-contribution-grid-snake-dark.svg" alt="snake")>
 </div>
-
-![Arnaud's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaloldcoder98&theme=github_dark)
-![Arnaud's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaloldcoder98&theme=github_dark)
 
 
 <!---
