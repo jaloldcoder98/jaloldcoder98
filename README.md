@@ -44,6 +44,27 @@
 
 
 
+<!--- ### 🛢️ Databases
+
+![shields](https://img.shields.io/badge/SQL|PL/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![shields](https://img.shields.io/badge/SQlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+--->
+### :computer: Operating Systems
+
+![shields](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![shields](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+    <img src="https://github.com/jaloldcoder98/jaloldcoder98/blob/output/github-contribution-grid-snake-dark.svg" alt="snake")>
+</div>
+
+![Arnaud's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaloldcoder98&theme=github_dark)
+![Arnaud's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaloldcoder98&theme=github_dark)
+
+
 <!---
 jaloldcoder98/jaloldcoder98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
