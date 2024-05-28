@@ -58,7 +58,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-    <img src="https://github.com/jaloldcoder98/jaloldcoder98/blob/output/github-contribution-grid-snake-dark.svg" alt="snake")>
+    <img src="https://github.com/jaloldcoder98/blob/output/github-contribution-grid-snake-dark.svg" alt="snake")>
 </div>
 
 ![Arnaud's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaloldcoder98&theme=github_dark)
