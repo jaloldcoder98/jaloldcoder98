@@ -23,7 +23,8 @@
 - 🌐 &nbsp; .NET 6 | 
 - 🕸 &nbsp; jQuery | Bootstrap | HTML5 | CSS | Swift
 <!--- 🛢 &nbsp; SqlServer | PostgreSql --->
-- ⚙️ &nbsp; Git 
+- ⚙️ &nbsp; Git
+  <a href="https://www.codewars.com/users/jaloldcoder98/badges/micro"></a>
 
 <br/>
   
@@ -62,6 +63,7 @@
 ![shields](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![shields](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![shields](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+
 
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
