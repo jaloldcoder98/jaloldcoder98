@@ -24,7 +24,7 @@
 - 🕸 &nbsp; jQuery | Bootstrap | HTML5 | CSS | Swift
 <!--- 🛢 &nbsp; SqlServer | PostgreSql --->
 - ⚙️ &nbsp; Git
-  <a href="https://www.codewars.com/users/jaloldcoder98/badges/micro"></a>
+-   &nbsp; ![image](https://www.codewars.com/users/jaloldcoder98/badges/micro)
 
 <br/>
   
