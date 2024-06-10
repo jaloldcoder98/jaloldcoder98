@@ -14,6 +14,7 @@
 <a href="https://www.linkedin.com/in/jaloliddin-egamberdiyev/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
 <a href="https://t.me/jaloliddin_io"><img alt="Telegram" src="https://img.shields.io/badge/telegram-gray?style=flat-square&logo=telegram"></a>
 <a href="https://www.facebook.com/jaloldo98/"><img alt="Facebook" src="https://img.shields.io/badge/facebook-gray?style=flat-square&logo=facebook"></a>
+![image](https://www.codewars.com/users/jaloldcoder98/badges/micro)
 </p>
 
 <h1>🛠 Me Stack</h1>
@@ -24,7 +25,7 @@
 - 🕸 &nbsp; jQuery | Bootstrap | HTML5 | CSS | Swift
 <!--- 🛢 &nbsp; SqlServer | PostgreSql --->
 - ⚙️ &nbsp; Git
--   &nbsp; ![image](https://www.codewars.com/users/jaloldcoder98/badges/micro)
+ 
 
 <br/>
   
